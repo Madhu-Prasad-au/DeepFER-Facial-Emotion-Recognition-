@@ -209,7 +209,7 @@ def predict_emotion(image):
 # ============================================================
 
 st.title("😊 DeepFER")
-st.subheader("Facial Emotion Recognition Using Deep Learning")
+st.subheader("Facial Emotion Recognition Using Machine Learning")
 
 st.write(
     "Upload a facial image and DeepFER will predict "
